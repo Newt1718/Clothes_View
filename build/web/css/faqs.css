@@ -1,0 +1,17 @@
+/* faqs.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.menu-link {
+  color: blue;
+  text-decoration: none;
+}
+
+.menu-link:hover {
+  text-decoration: underline;
+}

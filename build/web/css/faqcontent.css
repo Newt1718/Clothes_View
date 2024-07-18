@@ -1,0 +1,65 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Aug 10, 2023, 2:42:09 PM
+    Author     : Tri Nhan
+*/
+
+/* Reset some default styles */
+body, h1, table {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Basic styling for the page */
+body {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+thead th {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+tbody td {
+    padding: 10px 20px;
+    border-top: 1px solid #ccc;
+}
+
+/* Styling for error message */
+h4 {
+    color: #ff0000;
+    margin-top: 10px;
+}
+
+/* Styling for links */
+a {
+    display: inline-block;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
